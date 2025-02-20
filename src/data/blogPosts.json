@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "slug": "introduction-to-nextjs",
+    "title": "Introduction to Next.js",
+    "summary": "A beginner-friendly guide to Next.js and its powerful features.",
+    "content": "Next.js is a powerful React framework that enables server-side rendering and static site generation...",
+    "date": "2024-02-15T10:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "slug": "tailwind-css-best-practices",
+    "title": "Tailwind CSS Best Practices",
+    "summary": "Learn how to structure and optimize Tailwind CSS for scalable projects.",
+    "content": "Tailwind CSS is a utility-first CSS framework that allows you to build modern interfaces...",
+    "date": "2024-02-14T12:30:00.000Z"
+  },
+  {
+    "id": 3,
+    "slug": "how-to-use-app-router",
+    "title": "How to Use the Next.js App Router",
+    "summary": "A deep dive into the new Next.js App Router and how it changes React development.",
+    "content": "The App Router in Next.js 13+ introduces a new way of structuring applications...",
+    "date": "2024-02-13T14:00:00.000Z"
+  }
+]
