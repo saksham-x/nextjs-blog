@@ -1,4 +1,4 @@
-"use client"; // Required for client-side state
+"use client";
 import { useState, useEffect } from "react";
 import { getAllPosts } from "@/lib/blog";
 import BlogCard from "@/components/BlogCard";
@@ -6,7 +6,7 @@ import SearchBar from "@/components/SearchBar";
 import Pagination from "@/components/Pagination";
 import { BlogPost } from "@/types";
 
-const POSTS_PER_PAGE = 5; // Set number of posts per page
+const POSTS_PER_PAGE = 5;
 
 export default function HomePage() {
   const [searchQuery, setSearchQuery] = useState("");
@@ -48,7 +48,6 @@ export default function HomePage() {
       <h1 className="text-4xl font-bold mb-6 text-center">Blog Posts</h1>
       <SearchBar onSearch={handleSearch} />
 
-      {/* ✅ Show Error Message */}
       {error && <p className="text-red-500 text-center">{error}</p>}
 
       <div className="mt-6 space-y-6">
