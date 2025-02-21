@@ -4,7 +4,7 @@
     "slug": "introduction-to-nextjs",
     "title": "Introduction to Next.js",
     "summary": "A beginner-friendly guide to Next.js and its powerful features.",
-    "content": "Next.js is a powerful React framework that enables server-side rendering and static site generation...",
+    "content": "Next.js is a powerful React framework that enables server-side rendering and static site generation. It simplifies React development by providing built-in routing, API routes, and performance optimizations...",
     "date": "2024-02-15T10:00:00.000Z"
   },
   {
@@ -12,7 +12,7 @@
     "slug": "tailwind-css-best-practices",
     "title": "Tailwind CSS Best Practices",
     "summary": "Learn how to structure and optimize Tailwind CSS for scalable projects.",
-    "content": "Tailwind CSS is a utility-first CSS framework that allows you to build modern interfaces...",
+    "content": "Tailwind CSS is a utility-first CSS framework that allows you to build modern interfaces rapidly. This guide covers best practices such as structuring your classes efficiently, using the @apply directive, and keeping your CSS clean...",
     "date": "2024-02-14T12:30:00.000Z"
   },
   {
@@ -20,7 +20,63 @@
     "slug": "how-to-use-app-router",
     "title": "How to Use the Next.js App Router",
     "summary": "A deep dive into the new Next.js App Router and how it changes React development.",
-    "content": "The App Router in Next.js 13+ introduces a new way of structuring applications...",
+    "content": "The App Router in Next.js 13+ introduces a new way of structuring applications. With server components, layouts, and loading states, it simplifies data fetching and page rendering...",
     "date": "2024-02-13T14:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "slug": "react-hooks-explained",
+    "title": "React Hooks Explained",
+    "summary": "Understand how to use React Hooks to manage state and effects in your components.",
+    "content": "React Hooks revolutionized how we handle state and side effects in functional components. This guide covers useState, useEffect, useContext, and custom hooks for better code maintainability...",
+    "date": "2024-02-12T09:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "slug": "javascript-es6-features",
+    "title": "JavaScript ES6 Features You Should Know",
+    "summary": "A breakdown of the most useful ES6+ JavaScript features for modern developers.",
+    "content": "ES6 introduced many useful features such as arrow functions, destructuring, template literals, async/await, and classes. Understanding these features will improve your JavaScript development...",
+    "date": "2024-02-11T16:45:00.000Z"
+  },
+  {
+    "id": 6,
+    "slug": "state-management-in-react",
+    "title": "State Management in React: Redux vs Context API",
+    "summary": "Comparing Redux and Context API for managing state in large applications.",
+    "content": "Managing state in React applications is critical for maintainability. While Redux offers a centralized state management approach, Context API is a simpler alternative for smaller applications...",
+    "date": "2024-02-10T08:30:00.000Z"
+  },
+  {
+    "id": 7,
+    "slug": "web-performance-optimizations",
+    "title": "Web Performance Optimizations",
+    "summary": "Best practices to optimize website performance for faster load times.",
+    "content": "Improving web performance is essential for SEO and user experience. Techniques such as lazy loading, code splitting, caching, and image optimization can drastically reduce load times...",
+    "date": "2024-02-09T18:15:00.000Z"
+  },
+  {
+    "id": 8,
+    "slug": "typescript-vs-javascript",
+    "title": "TypeScript vs JavaScript: Which One Should You Choose?",
+    "summary": "A detailed comparison between TypeScript and JavaScript.",
+    "content": "TypeScript provides static typing, interfaces, and better tooling support compared to JavaScript. While JavaScript remains flexible, TypeScript improves code quality and maintainability...",
+    "date": "2024-02-08T11:20:00.000Z"
+  },
+  {
+    "id": 9,
+    "slug": "backend-vs-frontend-development",
+    "title": "Backend vs Frontend Development: Key Differences",
+    "summary": "Understanding the difference between backend and frontend roles in web development.",
+    "content": "Frontend development focuses on UI/UX using HTML, CSS, and JavaScript frameworks, while backend development handles databases, authentication, and server-side logic...",
+    "date": "2024-02-07T13:10:00.000Z"
+  },
+  {
+    "id": 10,
+    "slug": "introduction-to-nodejs",
+    "title": "Introduction to Node.js",
+    "summary": "Getting started with Node.js for backend development.",
+    "content": "Node.js is a runtime that allows JavaScript to run on the server. It's commonly used for building REST APIs, microservices, and real-time applications...",
+    "date": "2024-02-06T07:50:00.000Z"
   }
 ]
